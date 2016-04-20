@@ -1,0 +1,6 @@
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
